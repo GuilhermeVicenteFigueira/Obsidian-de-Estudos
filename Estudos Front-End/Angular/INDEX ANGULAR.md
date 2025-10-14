@@ -1,0 +1,1 @@
+# [[Anatomia de um componente]]

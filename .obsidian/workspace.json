@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "59a27c9aedb98cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07725bf73fdb977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840cde0789c613a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7199b6f5868f0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad5f7b6ed38b2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f2987f8a6008885",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b5ede3810c0a0f36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "eebc188c99991033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f893344dfcb947",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ffab7ef54902c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5815563edbf8d813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Estrutura de projetos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Estrutura de projetos"
+            }
+          },
+          {
+            "id": "6aedda103abf1feb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/O que é ML?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para O que é ML?"
+            }
+          },
+          {
+            "id": "def668624f095dcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d9703e75bdcd49f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/O que é ML?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de O que é ML?"
+            }
+          },
+          {
+            "id": "50b18c4fb1af57d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Criar um novo quadro": false
+    }
+  },
+  "active": "840cde0789c613a3",
+  "lastOpenFiles": [
+    "Estudos de Ia/EDA/Lidando com Outliers.md",
+    "Estudos de Ia/Estatistica/INDEX ESTATÍSTICA.md",
+    "Estudos de Ia/Machine Learning/INDEX MACHINE LEARNING.md",
+    "Estudos de Ia/Machine Learning/Aprendizado Supervisionado.md",
+    "Estudos de Ia/Machine Learning/Aprendizado por reforço.md",
+    "Estudos de Ia/Machine Learning/Aprendizado não supervisionado.md",
+    "Estudos de Ia/Machine Learning/A maldição da dimensionalidade.md",
+    "Estudos de Ia/Machine Learning/Underfitting & Overfitting.md",
+    "Estudos de Ia/INDEX DE IA.md",
+    "Estudos de Ia/EDA/INDEX EDA.md",
+    "Estudos Front-End/Angular/Anatomia de um componente.md",
+    "Estudos Front-End/Angular/INDEX ANGULAR.md",
+    "Estudos Front-End/INDEX FRONT-END.md",
+    "Estudos de Ia/Estatistica/Representações Gráficas.md",
+    "Estudos de Ia/Estatistica/Correlação.md",
+    "Estudos de Ia/Estatistica/Medidas de Dispersão.md",
+    "Estudos de Ia/Estatistica/Medidas de posição.md",
+    "Estudos de Ia/Estatistica/Tipos de Variáveis.md",
+    "Estudos de Ia/Estatistica/População e Amostra.md",
+    "Estudos de Ia/Estatistica/Estatística descritiva.md",
+    "Estudos de Ia/Machine Learning/Validações de Modelos.md",
+    "Estudos de Ia/Regreção Linear/Introdução a Regreção Linear.md",
+    "Estudos de Ia/Regreção Linear/INDEX REGREÇÃO LINEAR.md",
+    "Index de estudos.md",
+    "Estudos Front-End/Angular",
+    "Estudos Front-End",
+    "Estudos de Ia",
+    "Estudos de Ia/Regreção Linear/EducaIA.md",
+    "Estudos de Ia/Regreção Linear/imagens Regreção linear/Calculo de regreção linear.png",
+    "Estudos de Ia/Regreção Linear/imagens Regreção linear/Escopo do projeto de EducaIa.png",
+    "Estudos de Ia/Regreção Linear/imagens Regreção linear",
+    "Estudos de Ia/Machine Learning/O que é ML?.md",
+    "Estudos de Ia/Regreção Linear",
+    "Estudos de Ia/Machine Learning/Imagens ML/img do Ml canvas.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/Img do Crisp-dm.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img do Ia canvas.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo bagging.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Boosting.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Voting.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Stacking.png",
+    "Estudos de Ia/Machine Learning/Imagens ML/img K-Fold Cross-Validation.png",
+    "Estudos de Ia/Machine Learning/Imagens ML",
+    "eda_churn.ipynb",
+    "Coleta e preparação de dados",
+    "Estudos de Ia/EDA",
+    "Estudos de Ia/Estatistica/Imagens De estatisticas"
+  ]
+}

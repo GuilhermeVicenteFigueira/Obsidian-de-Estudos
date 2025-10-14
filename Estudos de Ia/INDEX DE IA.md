@@ -1,0 +1,7 @@
+## [[INDEX ESTATÍSTICA]]
+---
+## [[INDEX EDA]]
+---
+## [[INDEX MACHINE LEARNING]]
+---
+## [[INDEX REGREÇÃO LINEAR]]

@@ -1,7 +1,14 @@
+
+
+
+
 ## [[INDEX ESTATÍSTICA]]
 ---
 ## [[INDEX EDA]]
 ---
 ## [[INDEX MACHINE LEARNING]]
 ---
-## [[INDEX REGREÇÃO LINEAR]]
+## [[INDEX REGRESSÃO LINEAR]]
+---
+##  [[INDEX REGRESSÃO LINEAR MULTIPLA ]]
+

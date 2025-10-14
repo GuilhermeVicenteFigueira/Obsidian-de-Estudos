@@ -11,13 +11,32 @@
             "id": "840cde0789c613a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Estudos de Ia/INDEX DE IA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "INDEX DE IA"
+            }
+          },
+          {
+            "id": "663f9766be5dcb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos de Ia/INDEX DE IA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDEX DE IA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +175,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d70c77b820145e10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,53 +207,53 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "840cde0789c613a3",
+  "active": "d70c77b820145e10",
   "lastOpenFiles": [
-    "Estudos de Ia/EDA/Lidando com Outliers.md",
+    "Todos os projetos de Ia/eda/datasets/churn_services.csv",
+    "Todos os projetos de Ia/eda/datasets/churn_customers.csv",
+    "Todos os projetos de Ia/eda/datasets/churn_contracts.csv",
+    "Todos os projetos de Ia/eda/sv_churn_report.html",
+    "Todos os projetos de Ia/eda/eda_churn.ipynb",
+    "Todos os projetos de Ia/eda/datasets",
+    "Todos os projetos de Ia/eda/README.md",
+    "Todos os projetos de Ia/eda/Pipfile.lock",
+    "Todos os projetos de Ia/eda/Pipfile",
+    "Todos os projetos de Ia/eda",
+    "Todos os projetos de Ia/estatistica para devs/estatistica_Devs/Pipfile.lock",
+    "Todos os projetos de Ia/estatistica para devs/estatistica_Devs/Pipfile",
+    "Todos os projetos de Ia/Exerciocios de estatistica/README.md",
+    "Todos os projetos de Ia/modelo_diabetes/imagens/Imagem_do_grafico.png",
+    "Todos os projetos de Ia/modelo_diabetes/README.md",
+    "modelo_diabetes/imagens/Imagem_do_grafico.png",
+    "modelo_diabetes/README.md",
+    "eda/README.md",
+    "Exerciocios de estatistica/README.md",
     "Estudos de Ia/Estatistica/INDEX ESTATÍSTICA.md",
+    "Estudos de Ia/INDEX DE IA.md",
+    "Estudos de Ia/Regreção Linear Multipla/O que faremos no projeto.md",
+    "Estudos de Ia/Regreção Linear Multipla/INDEX REGRESSÃO LINEAR MULTIPLA.md",
+    "Estudos de Ia/Regreção Linear Multipla/Imagens de Regresão linear Multipla/Projeto De regressão Multipla.png",
+    "Estudos de Ia/Regreção Linear Multipla/Para que ser regressão Linear Múltipla?.md",
+    "INDEX REGRESSÃO LINEAR.md",
+    "Index de estudos.md",
+    "Estudos de Ia/Regreção Linear Multipla/Imagens de Regresão linear Multipla/Imagem sobre regreção Linear Multipla.png",
+    "Estudos de Ia/EDA/Lidando com Outliers.md",
     "Estudos de Ia/Machine Learning/INDEX MACHINE LEARNING.md",
     "Estudos de Ia/Machine Learning/Aprendizado Supervisionado.md",
     "Estudos de Ia/Machine Learning/Aprendizado por reforço.md",
     "Estudos de Ia/Machine Learning/Aprendizado não supervisionado.md",
     "Estudos de Ia/Machine Learning/A maldição da dimensionalidade.md",
     "Estudos de Ia/Machine Learning/Underfitting & Overfitting.md",
-    "Estudos de Ia/INDEX DE IA.md",
     "Estudos de Ia/EDA/INDEX EDA.md",
     "Estudos Front-End/Angular/Anatomia de um componente.md",
     "Estudos Front-End/Angular/INDEX ANGULAR.md",
     "Estudos Front-End/INDEX FRONT-END.md",
     "Estudos de Ia/Estatistica/Representações Gráficas.md",
-    "Estudos de Ia/Estatistica/Correlação.md",
-    "Estudos de Ia/Estatistica/Medidas de Dispersão.md",
-    "Estudos de Ia/Estatistica/Medidas de posição.md",
-    "Estudos de Ia/Estatistica/Tipos de Variáveis.md",
-    "Estudos de Ia/Estatistica/População e Amostra.md",
-    "Estudos de Ia/Estatistica/Estatística descritiva.md",
-    "Estudos de Ia/Machine Learning/Validações de Modelos.md",
-    "Estudos de Ia/Regreção Linear/Introdução a Regreção Linear.md",
-    "Estudos de Ia/Regreção Linear/INDEX REGREÇÃO LINEAR.md",
-    "Index de estudos.md",
-    "Estudos Front-End/Angular",
-    "Estudos Front-End",
-    "Estudos de Ia",
-    "Estudos de Ia/Regreção Linear/EducaIA.md",
     "Estudos de Ia/Regreção Linear/imagens Regreção linear/Calculo de regreção linear.png",
     "Estudos de Ia/Regreção Linear/imagens Regreção linear/Escopo do projeto de EducaIa.png",
-    "Estudos de Ia/Regreção Linear/imagens Regreção linear",
-    "Estudos de Ia/Machine Learning/O que é ML?.md",
-    "Estudos de Ia/Regreção Linear",
     "Estudos de Ia/Machine Learning/Imagens ML/img do Ml canvas.png",
     "Estudos de Ia/Machine Learning/Imagens ML/Img do Crisp-dm.png",
     "Estudos de Ia/Machine Learning/Imagens ML/img do Ia canvas.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo bagging.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Boosting.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Voting.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo Stacking.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img K-Fold Cross-Validation.png",
-    "Estudos de Ia/Machine Learning/Imagens ML",
-    "eda_churn.ipynb",
-    "Coleta e preparação de dados",
-    "Estudos de Ia/EDA",
-    "Estudos de Ia/Estatistica/Imagens De estatisticas"
+    "Estudos de Ia/Machine Learning/Imagens ML/img  modelo bagging.png"
   ]
 }

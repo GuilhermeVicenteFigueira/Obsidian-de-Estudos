@@ -5,4 +5,4 @@ Em termos básico , o ML é o processo de treinar o software, chamado de modelo,
 
 Com isso seria necessário  para criar um app de meteorologia, seria necessário tivemos diversas informações para que ela consiga entender o que é necessário para achar um padrão 
 
-![[img O que é ml?.png]]
+![[img O que é ml.png]]

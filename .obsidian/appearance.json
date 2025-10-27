@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "accentColor": "#f55c5c",
   "baseFontSizeAction": true,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "nativeMenus": true
 }

@@ -4,77 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a07725bf73fdb977",
+        "id": "51a0415102d22f59",
         "type": "tabs",
         "children": [
           {
-            "id": "8539c34456a097ed",
+            "id": "7233fbcfab16ba6d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de dados/INDEX BANCO DE DADOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INDEX BANCO DE DADOS"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "8d33dcbbc0b81cb1",
+            "id": "b666b4128c8e6ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Dados.md",
+                "file": "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Tipos de Dados"
-            }
-          },
-          {
-            "id": "121b53345faaec02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de dados/Tipos de Banco de dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de Banco de dados"
-            }
-          },
-          {
-            "id": "35cda45eb63e3be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de dados/Bancos Relacionais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bancos Relacionais"
-            }
-          },
-          {
-            "id": "86778de993ce21aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de dados/Tipos de Banco de dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de Banco de dados"
             }
           }
         ],
@@ -98,10 +54,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -238,65 +194,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d33dcbbc0b81cb1",
+  "active": "b666b4128c8e6ddc",
   "lastOpenFiles": [
-    "Tipos de Dados.md",
-    "Banco de dados/INDEX BANCO DE DADOS.md",
-    "Banco de dados/Tipos de Banco de dados.md",
-    "Banco de dados/Bancos Relacionais.md",
-    "Banco de dados/O que é um Banco de Dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/INDEX BANCO DE DADOS RELACIONAL  BASICO.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/5FN - 5 Forma Normal.md",
+    "Banco de dados/imagens de banco de dados/Captura de tela 2025-10-29 130612.png",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/INDEX FORMA NORMAL.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/3FN - 3 Forma Normal.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/4FN - 4 Forma Normal.md",
+    "Banco de dados/imagens de banco de dados/Entidade após a 4 forma.png",
+    "Banco de dados/imagens de banco de dados/Entidade antes de aplicar a quarta forma.png",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/Forma Normal de Boyce-Codd(BNCF).md",
+    "Banco de dados/imagens de banco de dados/BCFN.png",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/Forma Normal.md",
     "Index de estudos.md",
-    "Exemplo Visual De um Banco de dado relacional.png",
-    "Banco de dados/Banco de Dados Não Relacionais.md",
+    "Banco de dados/imagens de banco de dados/Entidade Sem forma.png",
+    "Banco de dados/imagens de banco de dados/Pre segunda forma.png",
+    "Banco de dados/imagens de banco de dados/Primeira Forma.png",
+    "Banco de dados/imagens de banco de dados/Segunda Forma.png",
+    "Banco de dados/imagens de banco de dados/Terceira Forma.png",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/2FN - 2 Forma Normal.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/1FN - 1 Forma Normal.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Bancos Relacionais.md",
     "Dicionário Dev.md",
-    "Banco de dados/imagens de banco de dados/imagens sobre a  estrutura de um db.png",
+    "Exemplo Visual De um Banco de dado relacional.png.md",
+    "Banco de dados/imagens de banco de dados/Exemplo Visual De um Banco de dado relacional.png",
+    "Banco de dados/INDEX BANCO DE DADOS.md",
+    "Banco de dados/Banco de Dados Basico/O que é um Banco de Dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/INDEX MODELAGEM DE DADOS.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Banco de dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Estruturas Basicas de Banco de dados/INDEX ESTRTURA DE COMANDOS.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Dicionário Dev.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Regras da transformações do Modelo Conceitual para o Modelo Relacional.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Modelagem relacional.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/O que é Modelagem de Dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Componentes de um Modelo ER.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Chaves",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Chaves/Chave Estrangeira.md",
+    "Excalidraw",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Imagens de Modelagem",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados",
+    "Banco de dados/Banco de Dados Basico",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Estruturas Basicas de Banco de dados",
     "Banco de dados/imagens de banco de dados",
-    "Todos os projetos de Ia/modelo_diabetes/README.md",
-    "Banco de dados",
-    "Untitled 1",
-    "Estudos Back-end/Java/Index do Java.md",
-    "Estudos de Ia/INDEX DE IA.md",
-    "Estudos Back-end/Java/Exeções e erros/Sem título.md",
-    "Estudos Back-end/INDEX BACK-END.md",
-    "Estudos Back-end/PHP/Index PHP.md",
-    "Estudos Back-end/PHP/Índice de estudo PHP.md",
-    "Estudos Back-end",
-    "Estudos de Ia/Estatistica/Estatística descritiva.md",
-    "Estudos de Ia/Estatistica/INDEX ESTATÍSTICA.md",
-    "Todos os projetos de Ia/eda/datasets/churn_services.csv",
-    "Todos os projetos de Ia/eda/datasets/churn_customers.csv",
-    "Todos os projetos de Ia/eda/datasets/churn_contracts.csv",
-    "Todos os projetos de Ia/eda/sv_churn_report.html",
-    "Todos os projetos de Ia/eda/eda_churn.ipynb",
-    "Todos os projetos de Ia/eda/datasets",
-    "Todos os projetos de Ia/eda/README.md",
-    "Todos os projetos de Ia/Exerciocios de estatistica/README.md",
-    "Todos os projetos de Ia/modelo_diabetes/imagens/Imagem_do_grafico.png",
-    "modelo_diabetes/imagens/Imagem_do_grafico.png",
-    "modelo_diabetes/README.md",
-    "eda/README.md",
-    "Exerciocios de estatistica/README.md",
-    "Estudos de Ia/Regreção Linear Multipla/O que faremos no projeto.md",
-    "Estudos de Ia/Regreção Linear Multipla/INDEX REGRESSÃO LINEAR MULTIPLA.md",
-    "Estudos de Ia/Regreção Linear Multipla/Imagens de Regresão linear Multipla/Projeto De regressão Multipla.png",
-    "Estudos de Ia/Regreção Linear Multipla/Para que ser regressão Linear Múltipla?.md",
-    "INDEX REGRESSÃO LINEAR.md",
-    "Estudos de Ia/Regreção Linear Multipla/Imagens de Regresão linear Multipla/Imagem sobre regreção Linear Multipla.png",
-    "Estudos de Ia/Regreção Linear/imagens Regreção linear/Calculo de regreção linear.png",
-    "Estudos de Ia/Regreção Linear/imagens Regreção linear/Escopo do projeto de EducaIa.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/img do Ml canvas.png",
-    "Estudos de Ia/Machine Learning/Imagens ML/Img do Crisp-dm.png"
+    "Banco de dados"
   ]
 }

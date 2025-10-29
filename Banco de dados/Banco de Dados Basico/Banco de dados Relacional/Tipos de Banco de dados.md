@@ -3,10 +3,12 @@
 *relacional : biblioteca organizada*
 *Não Relacional: Caixa com itens variados Relacionados*.
 
-## [[Bancos Relacionais]]
-
 ---
-## [[Banco de Dados Não Relacionais]]
+
+> [!NOTE] Tipos de bancos
+>
+> - Bancos Relacionais
+> - Banco de Dados Não Relacionais]]
 
 ---
 

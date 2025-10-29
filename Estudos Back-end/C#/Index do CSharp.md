@@ -10,7 +10,6 @@
 
 ---
 # **Conjuntos**
-- ### [[C#/Basico/Conjuntos/Arrays]]
 - ### [[Dicionario]]
 - ### [[HashSet]]
 - ### [[Lista]]
@@ -49,6 +48,5 @@
 ---
 # **APi**
 ### [[Web.Api]]
-### [[HTTP e Comunicações]]
 ### [[JSON]]
 ### [[Tipos de API]]

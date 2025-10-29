@@ -1,4 +1,4 @@
-[[HTTP e Comunicações]]
+
 
 Uma API (Application Programming Interface), ou Interface de Programação de Aplicação, 
 é um conjunto de regras que permite que diferentes aplicações de software interajam e compartilhem dados e funcionalidades

@@ -1,10 +1,11 @@
+
+## ***[[INDEX BANCO DE DADOS RELACIONAL  BASICO]]***
+
 # **SQL**
 *Estrutura em tabelas(linhas/registro, colunas/campos)*
 *Exemplos: PostgreSQL, MySQL, Microsoft SQL Server*
 *Linguagem SQL(Structured Query Language)*
 
-
-*![[Exemplo Visual De um Banco de dado relacional.png]]*
 
 ## **Conexões entre tabelas**
 

@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "b666b4128c8e6ddc",
+            "id": "e8624bdb6e0def03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Dados.md",
+                "file": "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/TCL - Transaction Control Language (Linguagem de Controle de Transações).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Dados"
+              "title": "TCL - Transaction Control Language (Linguagem de Controle de Transações)"
             }
           }
         ],
@@ -206,9 +206,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b666b4128c8e6ddc",
+  "active": "e8624bdb6e0def03",
   "lastOpenFiles": [
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/INDEX SUB-LINGUA DO SQL.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/TCL - Transaction Control Language (Linguagem de Controle de Transações).md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/DCL - Data Control Language (Linguagem de Controle de Dados).md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/DDL - Data Definition Language (Linguagem de definição de Dados).md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/DML - Data Manipulation Language (Linguagem de Manipulação de Dados).md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL/DQL- Data Query Language (Linguagem de Colsulta de Dados).md",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/INDEX BANCO DE DADOS RELACIONAL  BASICO.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Sub Linguas SQL",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Dados.md",
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Banco de dados.md",
+    "Estudos de Ia/Machine Learning/Emsemble de modelos.md",
+    "Tipo",
+    "Banco de dados/INDEX BANCO DE DADOS.md",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/5FN - 5 Forma Normal.md",
     "Banco de dados/imagens de banco de dados/Captura de tela 2025-10-29 130612.png",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal/INDEX FORMA NORMAL.md",
@@ -231,27 +243,15 @@
     "Dicionário Dev.md",
     "Exemplo Visual De um Banco de dado relacional.png.md",
     "Banco de dados/imagens de banco de dados/Exemplo Visual De um Banco de dado relacional.png",
-    "Banco de dados/INDEX BANCO DE DADOS.md",
     "Banco de dados/Banco de Dados Basico/O que é um Banco de Dados.md",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/INDEX MODELAGEM DE DADOS.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Banco de dados.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Estruturas Basicas de Banco de dados/INDEX ESTRTURA DE COMANDOS.md",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Foma Normal",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Tipos de Dados.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Dicionário Dev.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Regras da transformações do Modelo Conceitual para o Modelo Relacional.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Modelagem relacional.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/O que é Modelagem de Dados.md",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Componentes de um Modelo ER.md",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Chaves",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Chaves/Chave Estrangeira.md",
     "Excalidraw",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados/Imagens de Modelagem",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Modelagem de dados",
     "Banco de dados/Banco de Dados Basico",
     "Banco de dados/Banco de Dados Basico/Banco de dados Relacional",
-    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Estruturas Basicas de Banco de dados",
-    "Banco de dados/imagens de banco de dados",
-    "Banco de dados"
+    "Banco de dados/Banco de Dados Basico/Banco de dados Relacional/Estruturas Basicas de Banco de dados"
   ]
 }

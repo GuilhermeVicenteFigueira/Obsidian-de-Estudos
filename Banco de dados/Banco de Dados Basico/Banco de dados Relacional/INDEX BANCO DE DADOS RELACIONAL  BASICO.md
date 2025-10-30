@@ -9,3 +9,6 @@
 
 ---
 ## **[[INDEX MODELAGEM DE DADOS]]**
+
+---
+## ***[[INDEX SUB-LINGUA DO SQL]]***
